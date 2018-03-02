@@ -17,8 +17,8 @@ The class meets 5 times between March 14th and April 11th.
 - Walking tour
 - Translations
 - Conditional design drawing
-- Programmed physical systems)
-- Prep Class 4
+- Programmed physical systems
+- Prep for Class 4
 
 ### March 21 - Origami Design
 
@@ -41,8 +41,8 @@ The class meets 5 times between March 14th and April 11th.
 
 ### April 4 - Material Affordances
 
-- Volvelles and paper calculators (10 min with Kelli)
-- Functional Pop-up books (10 min with Kelli)
+- Volvelles and paper calculators
+- Functional Pop-up books 
 - Material affordances of paper
 - Mechanically-programmed movements
 - Punch cards, jacquard looms
