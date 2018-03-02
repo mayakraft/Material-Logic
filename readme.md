@@ -26,8 +26,8 @@ The class meets 5 times between March 14th and April 11th.
 - hands-on exercise: simple folds
 - box pleating: 3D letters, bugs
 - origami design methods: circle + rivers
-- computational origami
-- origami software: reference finder, tess, origamizer
+- computational origami: origami theorems
+- origami tessellations: metamaterials, miura ori
 - design activity: origami tessellations
 
 ### March 28 - Weaving to the Moon
