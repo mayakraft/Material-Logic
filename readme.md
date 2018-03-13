@@ -50,7 +50,8 @@ The class meets 5 times between March 14th and April 11th.
 
 ### April 11 - Material Applications
 
-- handmade computer
+- single computational functions
+- build sprint: handmade computer
 
 ## Readings
 
@@ -79,7 +80,15 @@ How it wants to take form
 
 ### in preparation for March 21
 
-- video: [Paper and Stick film](https://vimeo.com/36122966) by Ron Resch
+- optional video to watch: [Paper and Stick film](https://vimeo.com/36122966) by Ron Resch
+- download [Foundation Course Working with Paper](http://www.origamitessellations.com/wp-content/uploads/2018/01/Eric_Gjerde_Bauhaus_Foundation_Course_instructions_booklet_version.pdf) by Eric Gjerde
+
+### in preparation for March 28
+
+- Sadie Plant,  Zeros + Ones: Digital Women + The New Technoculture (I’ll xerox these!)
+- Nilda Callañaupa Alvarez, Faces of Tradition: Weaving Elders of the Andes (xerox)
+- Lisa Nakamura, Indigenous Circuits
+- José Argüelles, The Loom of Maya
 
 ### In preparation for April 4
 
